@@ -1,8 +1,0 @@
-﻿- Os arquivos .m devem ser colocados no mesmo diretório da base de dados;
-
-exemplo: /home/user/Dropbox/, considerando a base de dados no diretório /home/user/Dropbox/.
-
-- O programa principal é chamado de Principal.m;
-- A funcao Binarizacao.m deve ser adicionada ao caminho do matlab';
-executando o programa principal, a funcao Binarizacao pode dar erro, clique no script dela e "Add to path".
-- O programa demora de 10 a 15 minutos (testado em um notebook atual).
